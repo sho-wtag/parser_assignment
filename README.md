@@ -1,6 +1,6 @@
 # parser_assignment
 
-Step for Running the Program: 
+# Step for Running the Program: 
 
 ## Steps 1:
 
@@ -22,3 +22,10 @@ sql_queries.sql for the defined sql queries mentioned in the requirement.
 
 schema.sql for DB schema for the program. 
 
+# To run the source in any ide. 
+
+Goto source root direction and run the below command to import the dependencies to build the solution. 
+
+```
+mvn clean install
+```
