@@ -18,6 +18,7 @@ Note: --accesslog can take absolute path as well. Please provide absolutepath of
 
 ## Steps 3
 
-sql_queries.sql for the defined sql queries mentioned in the requirement. 
+sql_queries.sql for the defined sql queries mentioned in the requirement.
+
 schema.sql for DB schema for the program. 
 
