@@ -1,6 +1,3 @@
-CREATE DATABASE access_parser;
-USE access_parser;
-
 DROP TABLE IF EXISTS `log_entries`;
 
 CREATE TABLE `log_entries` (
