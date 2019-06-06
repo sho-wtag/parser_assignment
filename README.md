@@ -14,5 +14,10 @@ Run the jar file using below command.
 java -jar parser.jar -cp com.parser.ef --accesslog=F:\Development_Projects\logrepository\access.log --startDate=2017-05-31.13:00:00 --duration=hourly --threshold=100
 ```
 
-Note: --accesslog can take absolute path as well. 
+Note: --accesslog can take absolute path as well. Please provide absolutepath of access.log file. 
+
+## Steps 3
+
+sql_queries.sql for the defined sql queries mentioned in the requirement. 
+schema.sql for DB schema for the program. 
 
